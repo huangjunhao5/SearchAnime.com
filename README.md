@@ -8,7 +8,7 @@ A tool for Search Anime on Bilibili
 ```
   npm run build
 ```
-然后返回上一级目录，运行
+然后在settings.py中修改数据库，返回上一级目录，运行
 ```
   sh ./setdatabase.sh
 ```
